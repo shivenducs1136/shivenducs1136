@@ -25,6 +25,8 @@
 <img align="left" alt="Vs Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenducs1136)](https://github.com/shivenducs1136/github-readme-stats)
+
 <br />
 [![Shivendu's Stats](https://github-readme-stats.vercel.app/api/pin/?username=shivenducs1136&repo=github-readme-stats)](https://github.com/shivenducs1136/github-readme-stats)
 
