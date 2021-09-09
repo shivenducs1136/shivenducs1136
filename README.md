@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer for crazy Hackathons
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Master Android, Master CP and try System Design 
 - ⚡ Fun fact: I love to Edit Videos and listen to the music
 
 ### Connect with me:
