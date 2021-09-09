@@ -28,7 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenducs1136)](https://github.com/shivenducs1136/github-readme-stats)
 
 <br />
-[![Shivendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenducs1136)](https://github.com/anuraghazra/github-readme-stats)
+[![Shivendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenducs1136)](https://github.com/shivenducs1136/github-readme-stats)
 
 ---
 
