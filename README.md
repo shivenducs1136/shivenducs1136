@@ -1,6 +1,6 @@
 ### Hi there, I'm Shivendu Mishra 👋
 
-## I'm a Student, KOTLIN DEVELOPER and EDITOR !!
+## I'm a Student, Android Dev and EDITOR !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer for crazy Hackathons
