@@ -23,7 +23,7 @@
 [<img align="left" alt="C Plus Plus" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />]
 [<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />]
 [<img align="left" alt="Vs Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />]
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <br />
 <br />
 [![Shivendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenducs1136)](https://github.com/shivenducs1136/github-readme-stats)
