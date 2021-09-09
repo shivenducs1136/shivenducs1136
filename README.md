@@ -18,11 +18,11 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />]
-[<img align="left" alt="C Plus Plus" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />]
-[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />]
-[<img align="left" alt="Vs Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />]
+<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+<img align="left" alt="C Plus Plus" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
+<img align="left" alt="Vs Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <br />
 <br />
