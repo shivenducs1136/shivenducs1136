@@ -26,7 +26,7 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <br />
 <br />
-[![Shivendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenducs1136)](https://github.com/shivenducs1136/DSC_TASKS)
+[![Shivendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenducs1136&repo=DSC_TASKS)](https://github.com/shivenducs1136/DSC_TASKS)
 
 
 ---
