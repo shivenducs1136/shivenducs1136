@@ -17,10 +17,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Backend Development
+- A passionate Self-taught Android developer
+- Currently solving real world problems. 
 - Machine Learning Enthusiast  
-- Intern at Tally Solutions
+- Former Intern at Tally Solutions
 
 <br><br>
 
