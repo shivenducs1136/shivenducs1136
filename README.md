@@ -11,16 +11,15 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+### About me
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+- Software Engineer: Currently an SDE-1 at Tally Solutions, architecting core system components and developing custom UI elements in C++.
 
-<br>
+- AI & Machine Learning Enthusiast: Passionate about integrating AI into practical applications; recently won 1st place in a corporate hackathon for building an autonomous AI agent POC.
 
-- A passionate Self-taught Android developer
-- Currently solving real world problems. 
-- Machine Learning Enthusiast  
-- Former Intern at Tally Solutions
+- Full-Stack & Systems Developer: Experienced in building robust desktop applications (.NET, C#) and real-time multiplayer backends (Java, Spring Boot, WebSockets).
+
+- Previous Experience: Former Software Engineer Intern at Grapecity India, specializing in event-driven programming and API troubleshooting.
 
 <br><br>
 
