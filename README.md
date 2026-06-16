@@ -13,7 +13,7 @@
 	
 ### About me
 
-- Software Engineer: Currently an SDE-1 at Tally Solutions, architecting core system components and developing custom UI elements in C++.
+- Software Engineer: Currently an SDE-2 at Tally Solutions, architecting core system components and developing custom UI elements in C++.
 
 - AI & Machine Learning Enthusiast: Passionate about integrating AI into practical applications; recently won 1st place in a corporate hackathon for building an autonomous AI agent POC.
 
